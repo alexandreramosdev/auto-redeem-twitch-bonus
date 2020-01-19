@@ -5,6 +5,8 @@ Add Auto Redeem Twitch Bonus to your pull requests and comments on GitHub!
 
 * Get it now on the Chrome Web Store! - COMING SOON
 
+![](./chrome/screenshot.png)
+
 
 ## Developing
 
