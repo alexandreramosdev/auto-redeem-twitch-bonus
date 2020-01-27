@@ -22,8 +22,11 @@ First, clone this repository: `git clone https://github.com/alexandreramosdev/au
 
 This project is much better now than it was at launch thanks to these people.
 
-Awesome | Avatar
+Avatar  | Awesome
 --------|--------
-[Alexandre Ramos](https://github.com/alexandreramosdev) |<img src="https://avatars1.githubusercontent.com/u/34720135" alt='Alexandre Ramos' width='100'>
+<img src="https://avatars1.githubusercontent.com/u/34720135" alt='Alexandre Ramos' width='50'> | [Alexandre Ramos](https://github.com/alexandreramosdev) 
+ <img src="https://avatars1.githubusercontent.com/u/48307951" alt='Santiael' width='50'> | [Santiael](https://github.com/Santiael)
+
+
  
 
